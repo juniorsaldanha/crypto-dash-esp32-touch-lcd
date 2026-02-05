@@ -93,6 +93,7 @@ The project follows a clean, modular architecture:
 ---
 
 ## 7. Future Enhancements (TODO)
+- [ ] Configure WiFi using QR Code capturing through camera (OV2640)
 - [ ] Monitor BTC wallet balance and transactions
 - [ ] Display Bitcoin transaction fees from mempool.space (low, medium, high priority)
 - [ ] Add Page Manager screen to enable/disable specific pages

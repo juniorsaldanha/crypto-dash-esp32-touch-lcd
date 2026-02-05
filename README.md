@@ -76,6 +76,7 @@ just monitor
 -   **Touch Not Working?** Verify the CST816S touch controller is properly connected (I2C pins).
 
 ## TODO / Future Features
+- [ ] Configure WiFi using QR Code capturing through camera (OV2640)
 - [ ] Monitor BTC wallet balance and transactions
 - [ ] Display Bitcoin transaction fees from mempool.space (low, medium, high priority)
 - [ ] Add Page Manager screen to enable/disable specific pages
